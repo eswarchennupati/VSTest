@@ -1,0 +1,18 @@
+{
+    "name": "TestVS2",
+    "scope": "scope",
+    "inclusion": "inclusion",
+    "exclusion": "exclusion",
+    "codes": [
+        {
+            "code": "12345678",
+            "code_system": "SNOMED",
+            "title": "SNOMED Title3"
+        },
+        {
+            "code": "23456789",
+            "code_system": "SNOMED",
+            "title": "SNOMED Title4"
+        }
+    ]
+}
